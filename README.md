@@ -8,4 +8,4 @@ I specialize in building scalable e-commerce platforms and robust API integratio
 ⚙️ SAP CC • MuleSoft • Java • Microservices  
 🌱 Nature lover | 🎯 Always learning | 💡 Solution-driven
 
-📫 [LinkedIn](https://www.linkedin.com/in/yourprofile) • [Email](mailto:youremail@example.com)
+📫 [LinkedIn](https://www.linkedin.com/in/brahim-bousnguar) • [Email](mailto:b.bousnguar@gmail.com)
