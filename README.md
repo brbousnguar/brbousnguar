@@ -1,6 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="./brbousnguar.png" alt="Banner" style="width:100%;" />
+</p>
 
-  <img src="./brbousnguar.png" alt="Banner" />
+<div align="center">
 
   ### Hi there 👋  
   I'm **Brahim Bousnguar**, a Senior SAP Commerce Cloud Consultant and MuleSoft Integrator.  
