@@ -12,6 +12,6 @@
   ⚙️ SAP CC • MuleSoft • Java • Microservices  
   🌱 Nature lover | 🎯 Always learning | 💡 Solution-driven
 
-  📫 [LinkedIn](https://www.linkedin.com/in/brahim-bousnguar) • [Email](mailto:b.bousnguar@gmail.com)
+  📫 <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">LinkedIn</a> • <a href="mailto:b.bousnguar@gmail.com">Email</a>
 
 </div>
