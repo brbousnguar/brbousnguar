@@ -1,12 +1,15 @@
-![Banner](./brbousnguar.png)
+<div align="center">
 
-Hi there 👋
+  <img src="./brbousnguar.png" alt="Banner" />
 
-I'm **Brahim Bousnguar**, a Senior SAP Commerce Cloud Consultant and MuleSoft Integrator.  
-I specialize in building scalable e-commerce platforms and robust API integrations.
+  ### Hi there 👋  
+  I'm **Brahim Bousnguar**, a Senior SAP Commerce Cloud Consultant and MuleSoft Integrator.  
+  I specialize in building scalable e-commerce platforms and robust API integrations.
 
-💼 SEB • Miele • BYK • Mapal  
-⚙️ SAP CC • MuleSoft • Java • Microservices  
-🌱 Nature lover | 🎯 Always learning | 💡 Solution-driven
+  💼 SEB • Miele • BYK • Mapal  
+  ⚙️ SAP CC • MuleSoft • Java • Microservices  
+  🌱 Nature lover | 🎯 Always learning | 💡 Solution-driven
 
-📫 [LinkedIn](https://www.linkedin.com/in/brahim-bousnguar) • [Email](mailto:b.bousnguar@gmail.com)
+  📫 [LinkedIn](https://www.linkedin.com/in/brahim-bousnguar) • [Email](mailto:b.bousnguar@gmail.com)
+
+</div>
