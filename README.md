@@ -12,12 +12,14 @@
   ⚙️ SAP CC • MuleSoft • Java • Microservices  
   🌱 Nature lover | 🎯 Always learning | 💡 Solution-driven
 
-📊 **GitHub Stats**  
+
+  📫 <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">LinkedIn</a> • <a href="mailto:b.bousnguar@gmail.com">Email</a>
+
+
+
+  📊 **GitHub Stats**  
 <img src="https://img.shields.io/github/followers/brbousnguar?label=Followers&style=social" alt="GitHub Followers" />
 <img src="https://img.shields.io/github/stars/brbousnguar?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
 <img src="https://komarev.com/ghpvc/?username=brbousnguar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-
-  📫 <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">LinkedIn</a> • <a href="mailto:b.bousnguar@gmail.com">Email</a>
 
 </div>
