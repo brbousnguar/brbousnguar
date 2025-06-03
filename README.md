@@ -29,12 +29,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn icon" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" style="margin-right:10px;" alt="LinkedIn" />
   </a>
   <a href="mailto:b.bousnguar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="28" alt="Email icon" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" alt="Email" />
   </a>
 </p>
 
