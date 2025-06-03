@@ -29,10 +29,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" style="margin-right:10px;" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" style="margin-right:5px;" alt="LinkedIn" />
+    LinkedIn
   </a>
+  &nbsp;|&nbsp;
   <a href="mailto:b.bousnguar@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" alt="Email" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="20" style="margin-right:5px;" alt="Email" />
+    Email
   </a>
 </p>
 
