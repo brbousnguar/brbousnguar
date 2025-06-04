@@ -1,11 +1,25 @@
-![Banner](./brbousnguar.png)
-Hi there 👋
+<p align="center">
+  <img src="./brbousnguar.png" alt="Banner" style="width:100%;" />
+</p>
 
-I'm **Brahim Bousnguar**, a Senior SAP Commerce Cloud Consultant and MuleSoft Integrator.  
-I specialize in building scalable e-commerce platforms and robust API integrations.
+<div align="center">
 
-💼 SEB • Miele • BYK • Mapal  
-⚙️ SAP CC • MuleSoft • Java • Microservices  
-🌱 Nature lover | 🎯 Always learning | 💡 Solution-driven
+  ### Hi there 👋  
+  I'm **Brahim Bousnguar**, a Senior SAP Commerce Cloud Consultant and MuleSoft Integrator.  
+  I specialize in building scalable e-commerce platforms and robust API integrations.
 
-📫 [LinkedIn](https://www.linkedin.com/in/brahim-bousnguar) • [Email](mailto:b.bousnguar@gmail.com)
+  💼 SEB • Miele • BYK • Mapal  
+  ⚙️ SAP CC • MuleSoft • Java • Microservices  
+  🌱 Nature lover | 🎯 Always learning | 💡 Solution-driven
+
+
+  📫 <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">LinkedIn</a> • <a href="mailto:b.bousnguar@gmail.com">Email</a>
+
+<br/>
+
+  📊 **GitHub Stats**  
+<img src="https://img.shields.io/github/followers/brbousnguar?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/brbousnguar?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+<img src="https://komarev.com/ghpvc/?username=brbousnguar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
