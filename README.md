@@ -17,9 +17,4 @@
 
 <br/>
 
-  📊 **GitHub Stats**  
-<img src="https://img.shields.io/github/followers/brbousnguar?label=Followers&style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/brbousnguar?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
-<img src="https://komarev.com/ghpvc/?username=brbousnguar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 </div>
