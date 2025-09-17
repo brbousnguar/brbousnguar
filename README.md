@@ -16,10 +16,15 @@
   ---
 
   ### 🚀 What I Do
-  - 🛒 **E-commerce Solutions:** Building and optimizing SAP Commerce Cloud platforms
-  - 🔗 **System Integration:** Creating seamless connections with MuleSoft
-  - ☁️ **Cloud Architecture:** Designing scalable microservices architectures
-  - 📊 **Performance Optimization:** Improving system efficiency and user experience
+  
+<div align="left">
+
+- 🛒 **E-commerce Solutions:** Building and optimizing SAP Commerce Cloud platforms
+- 🔗 **System Integration:** Creating seamless connections with MuleSoft  
+- ☁️ **Cloud Architecture:** Designing scalable microservices architectures
+- 📊 **Performance Optimization:** Improving system efficiency and user experience
+
+</div>
 
   📫 **Let's Connect:** <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">LinkedIn</a> • <a href="mailto:b.bousnguar@gmail.com">Email</a>
 
