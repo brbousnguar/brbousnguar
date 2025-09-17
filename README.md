@@ -1,19 +1,5 @@
 <p align="center">
-  <  📫 **Let's Connect:** <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">LinkedIn</a> • <a href="mailto:b.bousnguar@gmail.com">Email</a>
-
-  ---
-
-  ### 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=brbousnguar&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbousnguar&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" height="165"/>
-
-  ### 🏆 GitHub Achievements
-  <img src="https://github-profile-trophy.vercel.app/?username=brbousnguar&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-  ### 📈 Activity Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brbousnguar&theme=github-compact&hide_border=true" alt="Activity Graph" />
-
-<br/> src="./brbousnguar.png" alt="Banner" style="width:100%;" />
+  <img src="./brbousnguar.png" alt="Banner" style="width:100%;" />
 </p>
 
 <div align="center">
@@ -29,14 +15,24 @@
 
   ---
 
-  ### � What I Do
+  ### 🚀 What I Do
   - 🛒 **E-commerce Solutions:** Building and optimizing SAP Commerce Cloud platforms
   - 🔗 **System Integration:** Creating seamless connections with MuleSoft
   - ☁️ **Cloud Architecture:** Designing scalable microservices architectures
   - 📊 **Performance Optimization:** Improving system efficiency and user experience
 
-  �📫 **Let's Connect:** <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">LinkedIn</a> • <a href="mailto:b.bousnguar@gmail.com">Email</a>
+  📫 **Let's Connect:** <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">LinkedIn</a> • <a href="mailto:b.bousnguar@gmail.com">Email</a>
 
-<br/>
+  ---
+
+  ### 📊 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=brbousnguar&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbousnguar&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" height="165"/>
+
+  ### 🏆 GitHub Achievements
+  <img src="https://github-profile-trophy.vercel.app/?username=brbousnguar&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+  ### 📈 Activity Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brbousnguar&theme=github-compact&hide_border=true" alt="Activity Graph" />
 
 </div>
