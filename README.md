@@ -6,9 +6,9 @@
 
   ### Hi there 👋  
   I'm **Brahim Bousnguar**, a Senior SAP Commerce Cloud Consultant and MuleSoft Integrator.  
-  I specialize in building scalable e-commerce platforms and robust API integrations.
+  I specialize in building scalable e-commerce platforms and robust API integrations, with recent experience in MuleSoft integration projects.
 
-  💼 SEB • Miele • BYK • Mapal  
+  💼 SEB • Miele • BYK • Mapal • RocheBobois  
   ⚙️ SAP CC • MuleSoft • Java • Microservices  
   🌱 Nature lover | 🎯 Always learning | 💡 Solution-driven
 
