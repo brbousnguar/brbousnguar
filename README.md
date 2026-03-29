@@ -59,10 +59,11 @@ now building **AI-augmented integrations**, MCP servers, and LLM-powered workflo
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=brbousnguar&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbousnguar&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" height="165"/>
+![Profile Views](https://komarev.com/ghpvc/?username=brbousnguar&color=00A1DF&style=for-the-badge&label=PROFILE+VIEWS)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brbousnguar&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/brbousnguar)
 
 ---
 
