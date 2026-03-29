@@ -62,8 +62,10 @@ now building **AI-augmented integrations**, MCP servers, and LLM-powered workflo
 ### 📊 GitHub Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brbousnguar&color=00A1DF&style=for-the-badge&label=PROFILE+VIEWS)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brbousnguar&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/brbousnguar)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-10%2B_Years-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![Repos](https://img.shields.io/badge/Public_Repos-101-orange?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
