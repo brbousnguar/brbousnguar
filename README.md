@@ -4,40 +4,68 @@
 
 <div align="center">
 
-  ### Hi there 👋  
-  I'm **Brahim Bousnguar**, a Senior SAP Commerce Cloud Consultant and MuleSoft Integrator.  
-  I specialize in building scalable e-commerce platforms and robust API integrations, with recent experience in MuleSoft integration projects.
+### Hi there 👋
 
-  💼 **Clients:** SEB • Miele • BYK • Mapal • RocheBobois  
-  ⚙️ **Tech Stack:** SAP Commerce Cloud • MuleSoft • Java • Spring Boot • Microservices • REST APIs  
-  🔧 **Tools:** IntelliJ IDEA • Anypoint Studio • Postman • Jenkins • Docker • Git  
-  🌱 Nature lover | 🎯 Always learning | 💡 Solution-driven
+I'm **Brahim Bousnguar** — MuleSoft Integrator & SAP Commerce Cloud Consultant,  
+now building **AI-augmented integrations**, MCP servers, and LLM-powered workflows.
 
-  ---
+🎒 **Clients:** SEB · Miele · BYK · Mapal · RocheBobois  
+⚙️ **Integration:** SAP Commerce Cloud · MuleSoft Anypoint · Java · Spring Boot · REST APIs  
+🤖 **AI:** Python · OpenAI API · Gemini · Ollama · MCP · n8n · Hugging Face  
+🛠️ **Tools:** IntelliJ IDEA · Anypoint Studio · Postman · Jenkins · Docker · Git  
+🌿 Nature lover | 🎯 Always learning | ⚡ Solution-driven
 
-  ### 🚀 What I Do
-  
+---
+
+### 🚀 What I Do
+
 <div align="left">
 
-- 🛒 **E-commerce Solutions:** Building and optimizing SAP Commerce Cloud platforms
-- 🔗 **System Integration:** Creating seamless connections with MuleSoft  
-- ☁️ **Cloud Architecture:** Designing scalable microservices architectures
-- 📊 **Performance Optimization:** Improving system efficiency and user experience
+- 🛒 **E-commerce:** Building & optimizing SAP Commerce Cloud platforms — SEB, Miele, BYK, Mapal
+- 🔗 **API Integration:** MuleSoft Anypoint flows, RAML specs, DataWeave transformations
+- 🤖 **AI Automation:** MCP servers, local LLM pipelines (Ollama), AI agents, n8n workflows
+- ☁️ **Cloud Architecture:** Microservices, containerization, CI/CD pipelines
+- 🔨 **Currently building:** MCP server for Anypoint Platform API management
 
 </div>
 
-  📫 **Let's Connect:** <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">LinkedIn</a> • <a href="mailto:b.bousnguar@gmail.com">Email</a>
+---
 
-  ---
+### 🧰 Tech Stack
 
-  ### 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=brbousnguar&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbousnguar&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" height="165"/>
+**Integration & E-commerce**
 
-  ### 🏆 GitHub Achievements
-  <img src="https://github-profile-trophy.vercel.app/?username=brbousnguar&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_Commerce-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 
-  ### 📈 Activity Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brbousnguar&theme=github-compact&hide_border=true" alt="Activity Graph" />
+**AI & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=brbousnguar&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbousnguar&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" height="165"/>
+
+---
+
+🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/brahim-bousnguar) · [Email](mailto:b.bousnguar@gmail.com)
 
 </div>
