@@ -2,52 +2,65 @@
   <img src="./brbousnguar.png" alt="Brahim Bousnguar profile banner" width="100%" />
 </p>
 
-# Hi, I'm Brahim 👋
+# Brahim Bousnguar
 
-I'm an integration engineer and SAP Commerce Cloud consultant with a background in enterprise e-commerce, APIs, and MuleSoft.
+**Enterprise Integration Engineer working across SAP Commerce Cloud, MuleSoft,
+and AI-assisted developer tooling.**
 
-I'm currently expanding that foundation into **AI-assisted integration and developer tooling**. This profile is a record of that work in progress: learning in public, building practical experiments, and starting to contribute fixes to open-source projects I use.
+I build integration systems and practical developer tools around APIs,
+enterprise commerce, and AI workflows. My professional foundation is SAP
+Commerce Cloud, MuleSoft, Java, and DataWeave; I extend that experience into
+Python, TypeScript, local LLMs, MCP, and open-source contribution.
 
-## What I'm working on
+## Current focus
 
-- Exploring how LLMs, local models, and agent workflows can support enterprise integration
-- Building small tools with Python, TypeScript, Ollama, OpenAI-compatible APIs, and n8n
-- Improving my open-source contribution workflow through focused bug fixes and tests
-- Continuing hands-on work with SAP Commerce Cloud, MuleSoft Anypoint Platform, Java, and DataWeave
+- Applying LLMs, local models, and agent workflows to integration and developer
+  productivity
+- Building local-first tools with Python, TypeScript, FastAPI, React, Docker,
+  and MCP
+- Contributing focused fixes and regression tests to established open-source
+  projects
+- Delivering enterprise commerce and integration work with SAP Commerce Cloud,
+  MuleSoft Anypoint Platform, Java, and DataWeave
 
-## Experience and growing focus
+## Technical foundation
 
-**Enterprise**
+**Enterprise integration**
 
 `SAP Commerce Cloud` · `MuleSoft` · `DataWeave` · `Java` · `Spring` · `REST APIs`
 
-**AI and automation — currently developing**
+**AI and automation**
 
-`Python` · `TypeScript` · `LLM APIs` · `Ollama` · `AI agents` · `MCP` · `n8n`
+`Python` · `TypeScript` · `FastAPI` · `React` · `LLM APIs` · `Ollama` · `MCP`
 
-**Engineering tools**
+**Delivery and engineering**
 
 `Docker` · `Git` · `Postman` · `Jenkins` · `GitHub Actions`
 
-## Selected projects
+## Selected work
 
-- [Ollama Benchmarking](https://github.com/brbousnguar/ollama-benchmarking) — experiments for comparing locally hosted language models
-- [AI Models Costs](https://github.com/brbousnguar/ai-models-costs) — a TypeScript project for exploring and comparing AI model pricing
-- [n8n Email Reply Agent](https://github.com/brbousnguar/n8n-email-reply-agent) — an AI-assisted email workflow using n8n, Ollama, and Gotenberg
-- [E-commerce Backend](https://github.com/brbousnguar/ecommerce-backend-spring) — a Spring Boot e-commerce API with JWT and OpenAPI
+- [Meterlex](https://github.com/brbousnguar/meterlex) — local-first cost
+  intelligence for Claude Code, Codex, Antigravity, Ollama, and Copilot CLI
+- [MacBook MCP Server](https://github.com/brbousnguar/macbook-mcp-server) — a
+  Python MCP server exposing battery, CPU, memory, and machine-status resources
+- [E-commerce Backend](https://github.com/brbousnguar/ecommerce-backend-spring)
+  — a Spring Boot 3 API with JWT authentication and OpenAPI documentation
+- [DataWeave Exercises](https://github.com/brbousnguar/dataweave-exercises) —
+  practical DataWeave examples for MuleSoft Anypoint integration
 
-## Open-source journey
+## Open-source contributions
 
-I'm at the beginning of contributing consistently to open source. My current work includes:
+- [CopilotKit #6179](https://github.com/CopilotKit/CopilotKit/pull/6179) —
+  cursor-preservation fixes and regression coverage for React chat inputs
+- [Open WebUI #27747](https://github.com/open-webui/open-webui/pull/27747) —
+  validation fix for optional RAG embedding-provider settings
+- [MuleSoft DataWeave CLI #140](https://github.com/mulesoft/data-weave-cli/pull/140)
+  — CLI help correction for DataWeave input syntax
 
-- [CopilotKit #6179](https://github.com/CopilotKit/CopilotKit/pull/6179) — cursor-preservation fixes and regression tests for React chat inputs
-- [Open WebUI #27747](https://github.com/open-webui/open-webui/pull/27747) — validation fix for optional RAG embedding settings
-- [MuleSoft DataWeave CLI #140](https://github.com/mulesoft/data-weave-cli/pull/140) — contribution to MuleSoft's DataWeave developer tooling
-
-I'm especially interested in practical issues at the intersection of **AI tooling, developer experience, APIs, and enterprise integration**.
+My contribution focus sits at the intersection of AI tooling, developer
+experience, APIs, and enterprise integration.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/brahim-bousnguar)
 - [Portfolio](https://brbousnguar.github.io/)
-- [Email](mailto:b.bousnguar@gmail.com)
