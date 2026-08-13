@@ -1,47 +1,66 @@
 <p align="center">
-  <img src="./brbousnguar.png" alt="Banner" style="width:100%;" />
+  <img src="./brbousnguar.png" alt="Brahim Bousnguar profile banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Brahim Bousnguar 👋</h1>
+# Brahim Bousnguar
 
-<p align="center">
-  Senior SAP Commerce Cloud Consultant and MuleSoft Integrator.<br/>
-  I build scalable e-commerce platforms and robust API integrations.
-</p>
+**Enterprise Integration Engineer working across SAP Commerce Cloud, MuleSoft,
+and AI-assisted developer tooling.**
 
-## Tech Stack
+I build integration systems and practical developer tools around APIs,
+enterprise commerce, and AI workflows. My professional foundation is SAP
+Commerce Cloud, MuleSoft, Java, and DataWeave; I extend that experience into
+Python, TypeScript, local LLMs, MCP, and open-source contribution.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/SAP%20CC-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP CC" />
-  <img src="https://img.shields.io/badge/MuleSoft-0072C6?style=for-the-badge&logo=mulesoft&logoColor=white" alt="MuleSoft" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logoColor=white" alt="Microservices" />
-</div>
+## Current focus
 
-## About Me
+- Applying LLMs, local models, and agent workflows to integration and developer
+  productivity
+- Building local-first tools with Python, TypeScript, FastAPI, React, Docker,
+  and MCP
+- Contributing focused fixes and regression tests to established open-source
+  projects
+- Delivering enterprise commerce and integration work with SAP Commerce Cloud,
+  MuleSoft Anypoint Platform, Java, and DataWeave
 
-- 💼 SEB • Miele • BYK • Mapal
-- 🌱 Nature lover
-- 🎯 Always learning
-- 💡 Solution-driven
+## Technical foundation
 
-## Connect with Me
+**Enterprise integration**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brahim-bousnguar" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" style="margin-right:5px;" alt="LinkedIn" />
-    LinkedIn
-  </a>
-  &nbsp;|&nbsp;
-  <a href="mailto:b.bousnguar@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="20" style="margin-right:5px;" alt="Email" />
-    Email
-  </a>
-</p>
+`SAP Commerce Cloud` · `MuleSoft` · `DataWeave` · `Java` · `Spring` · `REST APIs`
 
-## GitHub Stats
-<p align="center">
-  <img src="https://img.shields.io/github/followers/brbousnguar?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/brbousnguar?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=brbousnguar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**AI and automation**
+
+`Python` · `TypeScript` · `FastAPI` · `React` · `LLM APIs` · `Ollama` · `MCP`
+
+**Delivery and engineering**
+
+`Docker` · `Git` · `Postman` · `Jenkins` · `GitHub Actions`
+
+## Selected work
+
+- [Meterlex](https://github.com/brbousnguar/meterlex) — local-first cost
+  intelligence for Claude Code, Codex, Antigravity, Ollama, and Copilot CLI
+- [MacBook MCP Server](https://github.com/brbousnguar/macbook-mcp-server) — a
+  Python MCP server exposing battery, CPU, memory, and machine-status resources
+- [E-commerce Backend](https://github.com/brbousnguar/ecommerce-backend-spring)
+  — a Spring Boot 3 API with JWT authentication and OpenAPI documentation
+- [DataWeave Exercises](https://github.com/brbousnguar/dataweave-exercises) —
+  practical DataWeave examples for MuleSoft Anypoint integration
+
+## Open-source contributions
+
+- [CopilotKit #6179](https://github.com/CopilotKit/CopilotKit/pull/6179) —
+  cursor-preservation fixes and regression coverage for React chat inputs
+- [Open WebUI #27747](https://github.com/open-webui/open-webui/pull/27747) —
+  validation fix for optional RAG embedding-provider settings
+- [MuleSoft DataWeave CLI #140](https://github.com/mulesoft/data-weave-cli/pull/140)
+  — CLI help correction for DataWeave input syntax
+
+My contribution focus sits at the intersection of AI tooling, developer
+experience, APIs, and enterprise integration.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/brahim-bousnguar)
+- [Portfolio](https://brbousnguar.github.io/)
