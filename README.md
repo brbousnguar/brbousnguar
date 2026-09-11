@@ -39,6 +39,9 @@ Python, TypeScript, local LLMs, MCP, and open-source contribution.
 
 ## Selected work
 
+- [mulewatch](https://github.com/brbousnguar/mulewatch) — a read-only MCP server
+  that lets AI assistants search MuleSoft Anypoint logs and inspect Runtime
+  Manager, API Manager, and Exchange
 - [Meterlex](https://github.com/brbousnguar/meterlex) — local-first cost
   intelligence for Claude Code, Codex, Antigravity, Ollama, and Copilot CLI
 - [MacBook MCP Server](https://github.com/brbousnguar/macbook-mcp-server) — a
