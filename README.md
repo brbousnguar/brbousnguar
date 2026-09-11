@@ -46,8 +46,8 @@ Python, TypeScript, local LLMs, MCP, and open-source contribution.
   intelligence for Claude Code, Codex, Antigravity, Ollama, and Copilot CLI
 - [MacBook MCP Server](https://github.com/brbousnguar/macbook-mcp-server) — a
   Python MCP server exposing battery, CPU, memory, and machine-status resources
-- [E-commerce Backend](https://github.com/brbousnguar/ecommerce-backend-spring)
-  — a Spring Boot 3 API with JWT authentication and OpenAPI documentation
+- [AI Models Costs](https://github.com/brbousnguar/ai-models-costs) — a static
+  React dashboard comparing AI model API pricing across providers
 
 ## Open-source contributions
 
