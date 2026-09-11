@@ -50,12 +50,8 @@ Python, TypeScript, local LLMs, MCP, and open-source contribution.
 
 ## Open-source contributions
 
-- [CopilotKit #6179](https://github.com/CopilotKit/CopilotKit/pull/6179) —
-  cursor-preservation fixes and regression coverage for React chat inputs
-- [Open WebUI #27747](https://github.com/open-webui/open-webui/pull/27747) —
-  validation fix for optional RAG embedding-provider settings
 - [MuleSoft DataWeave CLI #140](https://github.com/mulesoft/data-weave-cli/pull/140)
-  — CLI help correction for DataWeave input syntax
+  (merged) — CLI help correction for DataWeave input syntax
 
 My contribution focus sits at the intersection of AI tooling, developer
 experience, APIs, and enterprise integration.
