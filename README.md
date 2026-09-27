@@ -7,6 +7,12 @@
 **Enterprise Integration Engineer working across SAP Commerce Cloud, MuleSoft,
 and AI-assisted developer tooling.**
 
+**Portfolio:** [heybrahim.com](https://heybrahim.com) · **For AI agents:** my portfolio
+is an MCP server at `https://api.heybrahim.com/mcp` (Streamable HTTP, no key; listed
+in the [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=heybrahim)
+as `com.heybrahim/portfolio`) · **Open to** a permanent tech lead or integration
+architect role, [details on /now](https://heybrahim.com/now.html).
+
 I build integration systems and practical developer tools around APIs,
 enterprise commerce, and AI workflows. My professional foundation is SAP
 Commerce Cloud, MuleSoft, Java, and DataWeave; I extend that experience into
